@@ -1,0 +1,33 @@
+.songContainers {
+    display: flex;
+    /*justify-content: center;*/
+    align-items: center;
+    margin-top: 20px;
+    flex-direction: column;
+}
+
+.songBody {
+    width: 600px;
+    /*border: 1px solid gray;*/
+    margin: 10px 0;
+}
+
+.button {
+    cursor: pointer;
+    margin-right: 5px;
+}
+
+.songTitle {
+    display: flex;
+    justify-content: center;
+}
+
+
+.listUser {
+    display: flex;
+}
+
+.listUserLi {
+    border: 1px solid gray;
+    width: 200px;
+}

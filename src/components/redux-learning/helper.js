@@ -1,0 +1,13 @@
+
+export const ADD = 'Add'
+export const MIN = 'Min'
+export const FETCH_SONG = 'FETCH_SONG'
+export const FETCH_WHOLE_SONG = 'FETCH_WHOLE_SONG'
+export const FETCH_ONE_WHOLE_SONG = 'FETCH_ONE_WHOLE_SONG'
+export const SELECT_SONG = 'SELECT_SONG'
+export const FETCH_USER = 'FETCH_USER'
+export const FETCH_ALL_USER = 'FETCH_ALL_USER'
+export const FETCH_ONE_USER = 'FETCH_ONE_USER'
+export const NEW_USER = 'NEW_USER'
+export const DELETE_USER = 'DELETE_USER'
+export const UPDATE_USER = 'UPDATE_USER'
